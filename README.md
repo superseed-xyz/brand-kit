@@ -31,26 +31,28 @@ Find our logos and wordmarks in the following link:
 
 Explore our color palette:
 
-| Color Name     | Hex Code  | Sample                                                                 |
-|----------------|-----------|-------------------------------------------------------------------------|
-| Superseed Light Green  | `#93D0CF` | <img src="./colors/Superseed Light Green.png" alt="Superseed Light Green" width="150px" height="150px"> |
-| Tangaroa       | `#0E273B` | <img src="./colors/Tangaroa.png" alt="Tangaroa" width="150px" height="150px">             |
-| Aluminium      | `#808386` | <img src="./colors/Aluminium.png" alt="Aluminium" width="150px" height="150px">           |
-| White          | `#F9F9F2` | <img src="./colors/White.png" alt="White" width="150px" height="150px">                   |
-| Black          | `#060606` | <img src="./colors/Black.png" alt="Black" width="150px" height="150px">                   |
-
+| Color Name     | Hex Code  | Sample                                                                                           |
+| -------------- | --------- | ------------------------------------------------------------------------------------------------ |
+| Superseed Teal | `#93D0CF` | <img src="./colors/Superseed Light Green.png" alt="Superseed Teal" width="150px" height="150px"> |
+| Tangaroa       | `#0E273B` | <img src="./colors/Tangaroa.png" alt="Tangaroa" width="150px" height="150px">                    |
+| Aluminium      | `#808386` | <img src="./colors/Aluminium.png" alt="Aluminium" width="150px" height="150px">                  |
+| White          | `#F9F9F2` | <img src="./colors/White.png" alt="White" width="150px" height="150px">                          |
+| Black          | `#060606` | <img src="./colors/Black.png" alt="Black" width="150px" height="150px">                          |
 
 ## Typography
 
 ### Headline
+
 - Font: Open Sans Bold
 - [Download Open Sans Bold](https://fonts.google.com/specimen/Open+Sans)
 
 ### Body
+
 - Font: Open Sans Regular
 - [Download Open Sans Regular](https://fonts.google.com/specimen/Open+Sans)
 
 ### CTAs & Accents
+
 - Font: Open Sans Bold
 - [Download Open Sans Bold](https://fonts.google.com/specimen/Open+Sans)
 
