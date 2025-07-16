@@ -1,9 +1,9 @@
 # Logos & Wordmarks
 
-Superseed’s logo is not a logo, but a **claim.** 
+Superseed’s logo is not a logo, but a **claim.**
 It belongs to each of us in the community. The logo is the face of the Superseed, meaning that we need to be careful to use it correctly and consistently.
 
-Superseed’s wordmark is outlined. Think of it like a graffiti or a tag on the wall, anyone can draw it anywhere. It can be applied on top and next to pretty much anything (flat colour or picture), as long as it’s remains readable and recognisable. You can make it so big it goes beyond the support’s margin or very small. 
+Superseed’s wordmark is outlined. Think of it like a graffiti or a tag on the wall, anyone can draw it anywhere. It can be applied on top and next to pretty much anything (flat colour or picture), as long as it’s remains readable and recognisable. You can make it so big it goes beyond the support’s margin or very small.
 
 It can be drawn in whichever colour, but **ALWAYS** a stroke of the same colour, no gradient, no 2 colour.
 
@@ -15,42 +15,37 @@ Please note that the wordmark and logomark can be used interchangeably, but avoi
 
 ### Wordmarks
 
-| As a size                        | PNG                                                            | SVG                                                            | SVG (For Light Background)                                                    |
-|----------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|
-| [Small](./wordmarks/small.png)   | <img src="./wordmarks/small.png" alt="Small Wordmark" style="width: 150px;">    | <img src="./wordmarks/small.svg" alt="Small Wordmark" style="width: 150px;">    | <img src="./wordmarks/small-black.svg" alt="Small Wordmark Black" style="width: 150px;">    |
-| [Default](./wordmarks/default.png)| <img src="./wordmarks/default.png" alt="Default Wordmark" style="width: 150px;"> | <img src="./wordmarks/default.svg" alt="Default Wordmark" style="width: 150px;"> | <img src="./wordmarks/default-black.svg" alt="Default Wordmark Black" style="width: 150px;"> |
-| [Large](./wordmarks/large.png)   | <img src="./wordmarks/large.png" alt="Large Wordmark" style="width: 150px;">    | <img src="./wordmarks/large.svg" alt="Large Wordmark" style="width: 150px;">    | <img src="./wordmarks/large-black.svg" alt="Large Wordmark Black" style="width: 150px;">    |
+| As a size                          | PNG                                                                              | SVG                                                                              | SVG (For Light Background)                                                                   | PNG (Teal)                                                                                   | SVG (Teal)                                                                                   |
+| ---------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [Small](./wordmarks/small.png)     | <img src="./wordmarks/small.png" alt="Small Wordmark" style="width: 150px;">     | <img src="./wordmarks/small.svg" alt="Small Wordmark" style="width: 150px;">     | <img src="./wordmarks/small-black.svg" alt="Small Wordmark Black" style="width: 150px;">     | <img src="./extra-wordmarks/Small-Teal.png" alt="Small Teal Wordmark" style="width: 150px;"> | <img src="./extra-wordmarks/small-teal.svg" alt="Small Teal Wordmark" style="width: 150px;"> |
+| [Default](./wordmarks/default.png) | <img src="./wordmarks/default.png" alt="Default Wordmark" style="width: 150px;"> | <img src="./wordmarks/default.svg" alt="Default Wordmark" style="width: 150px;"> | <img src="./wordmarks/default-black.svg" alt="Default Wordmark Black" style="width: 150px;"> | <img src="./extra-wordmarks/Large-Teal.png" alt="Large Teal Wordmark" style="width: 150px;"> | <img src="./extra-wordmarks/large-teal.svg" alt="Large Teal Wordmark" style="width: 150px;"> |
+| [Large](./wordmarks/large.png)     | <img src="./wordmarks/large.png" alt="Large Wordmark" style="width: 150px;">     | <img src="./wordmarks/large.svg" alt="Large Wordmark" style="width: 150px;">     | <img src="./wordmarks/large-black.svg" alt="Large Wordmark Black" style="width: 150px;">     | <img src="./extra-wordmarks/Large-Teal.png" alt="Large Teal Wordmark" style="width: 150px;"> | <img src="./extra-wordmarks/large-teal.svg" alt="Large Teal Wordmark" style="width: 150px;"> |
 
 ### Logos
 
-| As a size                         | PNG                                                            | SVG                                                            | SVG (For Light Background)                                                   |
-|-----------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|
-| [Small](./logos/small.png)        | <img src="./logos/small.png" alt="Small Logos" style="width: 150px;">    | <img src="./logos/small.svg" alt="Small Logos" style="width: 150px;">    | <img src="./logos/small-black.svg" alt="Small Logos Black" style="width: 150px;">    |
-| [Default](./logos/default.png)    | <img src="./logos/default.png" alt="Default Logos" style="width: 150px;"> | <img src="./logos/default.svg" alt="Default Logos" style="width: 150px;"> | <img src="./logos/default-black.svg" alt="Default Logos Black" style="width: 150px;"> |
-| [Large](./logos/large.png)        | <img src="./logos/large.png" alt="Large Logos" style="width: 150px;">    | <img src="./logos/large.svg" alt="Large Logos" style="width: 150px;">    | <img src="./logos/large-black.svg" alt="Large Logos Black" style="width: 150px;">    |
-
-
-
-
-
-
+| As a size                      | PNG                                                                       | SVG                                                                       | SVG (For Light Background)                                                            | PNG (Teal Token)                                                                      | SVG (Teal Token)                                                                      |
+| ------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [Small](./logos/small.png)     | <img src="./logos/small.png" alt="Small Logos" style="width: 150px;">     | <img src="./logos/small.svg" alt="Small Logos" style="width: 150px;">     | <img src="./logos/small-black.svg" alt="Small Logos Black" style="width: 150px;">     | <img src="./logos/token/Small-Teal.png" alt="Small Teal Token" style="width: 150px;"> | <img src="./logos/token/Small-teal.svg" alt="Small Teal Token" style="width: 150px;"> |
+| [Default](./logos/default.png) | <img src="./logos/default.png" alt="Default Logos" style="width: 150px;"> | <img src="./logos/default.svg" alt="Default Logos" style="width: 150px;"> | <img src="./logos/default-black.svg" alt="Default Logos Black" style="width: 150px;"> | <img src="./logos/token/Large-Teal.png" alt="Large Teal Token" style="width: 150px;"> | <img src="./logos/token/Large-teal.svg" alt="Large Teal Token" style="width: 150px;"> |
+| [Large](./logos/large.png)     | <img src="./logos/large.png" alt="Large Logos" style="width: 150px;">     | <img src="./logos/large.svg" alt="Large Logos" style="width: 150px;">     | <img src="./logos/large-black.svg" alt="Large Logos Black" style="width: 150px;">     | <img src="./logos/token/Large-Teal.png" alt="Large Teal Token" style="width: 150px;"> | <img src="./logos/token/Large-teal.svg" alt="Large Teal Token" style="width: 150px;"> |
 
 ## Extra Wordmarks
 
-In some exceptional cases it might be necessary to have a slightly different wordmark. This is why there are 2 extra wordmark designs: 
+In some exceptional cases it might be necessary to have a slightly different wordmark. This is why there are 2 extra wordmark designs:
 
 - with an added background for situations when the readability is too low due to the background, or when placed next to other logos
 - a horizontal wordmark, in cases the vertical is really limited
 
 ONLY USE THESE IF THE ONES ABOVE ABSOLUTELY DO NOT WORK.
 
-| As a size | PNG | SVG | SVG (For Light Background) |
-|-----------|-----|-----|----------------------------|
+| As a size                                               | PNG                                                                                                          | SVG                                                                                                          | SVG (For Light Background)                                                                                         |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | [With Black Background](./extra-wordmarks/black-bg.png) | <img src="./extra-wordmarks/black-bg.png" alt="With Black Background Extra-Wordmarks" style="width: 150px;"> | <img src="./extra-wordmarks/black-bg.svg" alt="With Black Background Extra-Wordmarks" style="width: 150px;"> | <img src="./extra-wordmarks/black-bg.svg" alt="With Black Background Extra-Wordmarks Light" style="width: 150px;"> |
 | [With White Background](./extra-wordmarks/white-bg.png) | <img src="./extra-wordmarks/white-bg.png" alt="With White Background Extra-Wordmarks" style="width: 150px;"> | <img src="./extra-wordmarks/white-bg.svg" alt="With White Background Extra-Wordmarks" style="width: 150px;"> | <img src="./extra-wordmarks/white-bg.svg" alt="With White Background Extra-Wordmarks Light" style="width: 150px;"> |
-| [Small](./extra-wordmarks/small.png) | <img src="./extra-wordmarks/small.png" alt="Small Extra-Wordmarks" style="width: 150px;"> | <img src="./extra-wordmarks/small.svg" alt="Small Extra-Wordmarks" style="width: 150px;"> | <img src="./extra-wordmarks/small-black.svg" alt="Small Extra-Wordmarks Light" style="width: 150px;"> |
-| [Default](./extra-wordmarks/default.png) | <img src="./extra-wordmarks/default.png" alt="Default Extra-Wordmarks" style="width: 150px;"> | <img src="./extra-wordmarks/default.svg" alt="Default Extra-Wordmarks" style="width: 150px;"> | <img src="./extra-wordmarks/default-black.svg" alt="Default Extra-Wordmarks Light" style="width: 150px;"> |
-| [Large](./extra-wordmarks/large.png) | <img src="./extra-wordmarks/large.png" alt="Large Extra-Wordmarks" style="width: 150px;"> | <img src="./extra-wordmarks/large.svg" alt="Large Extra-Wordmarks" style="width: 150px;"> | <img src="./extra-wordmarks/large-black.svg" alt="Large Extra-Wordmarks Light" style="width: 150px;"> |
+| [With Teal Background](./extra-wordmarks/Teal-Bg.png)   | <img src="./extra-wordmarks/Teal-Bg.png" alt="With Teal Background Extra-Wordmarks" style="width: 150px;">   | <img src="./extra-wordmarks/teal-bg.svg" alt="With Teal Background Extra-Wordmarks" style="width: 150px;">   | <img src="./extra-wordmarks/teal-bg.svg" alt="With Teal Background Extra-Wordmarks Light" style="width: 150px;">   |
+| [Small](./extra-wordmarks/small.png)                    | <img src="./extra-wordmarks/small.png" alt="Small Extra-Wordmarks" style="width: 150px;">                    | <img src="./extra-wordmarks/small.svg" alt="Small Extra-Wordmarks" style="width: 150px;">                    | <img src="./extra-wordmarks/small-black.svg" alt="Small Extra-Wordmarks Light" style="width: 150px;">              |
+| [Default](./extra-wordmarks/default.png)                | <img src="./extra-wordmarks/default.png" alt="Default Extra-Wordmarks" style="width: 150px;">                | <img src="./extra-wordmarks/default.svg" alt="Default Extra-Wordmarks" style="width: 150px;">                | <img src="./extra-wordmarks/default-black.svg" alt="Default Extra-Wordmarks Light" style="width: 150px;">          |
+| [Large](./extra-wordmarks/large.png)                    | <img src="./extra-wordmarks/large.png" alt="Large Extra-Wordmarks" style="width: 150px;">                    | <img src="./extra-wordmarks/large.svg" alt="Large Extra-Wordmarks" style="width: 150px;">                    | <img src="./extra-wordmarks/large-black.svg" alt="Large Extra-Wordmarks Light" style="width: 150px;">              |
 
 ## Brand in use
 
